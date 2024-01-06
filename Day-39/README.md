@@ -1,9 +1,3 @@
-<h1 align="center">Simple Linear Regression</h1>
-
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression/SLR%20Implementation.jpg" height="750px">
-
----
-
 # **Linear Regression**
 
 **Supervised machine learning algorithms:** It is a type of machine learning, where the algorithm learns from labeled data.  
@@ -16,12 +10,7 @@
 
   * **Regression:** It predicts the continuous output variables based on the independent input variable. like the prediction of house prices based on different parameters like house age, distance from the main road, location, area, etc.
 
----
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression/download.png" width="500px">
-
-
-The above diagram is an example of Simple Linear Regression, where change in the value of feature 'Y' is proportional to value of 'X'.
 
 * **Y :** Dependent or Target Variable.
 
